@@ -1,0 +1,21 @@
+{
+  "name": "@darshilmorker999/env-checker",
+  "version": "1.0.1",
+  "description": "env-checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darshil morker",
+  "license": "MIT",
+  "keywords": [
+    "env"
+  ],
+  "dependencies": {
+    "@darshilmorker999/env-checker": "^1.0.1",
+    "env-checker": "^1.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

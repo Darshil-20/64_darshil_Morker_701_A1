@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "express": "^5.1.0",
+    "node-fetch": "^2.7.0",
+    "unzipper": "^0.12.3"
+  },
+  "scripts": {
+    "server": "node server.js",
+    "test": "jest",
+    "script1": "node script1.js",
+    "script2": "node script2.js",
+    "script3": "node script3.js"
+  },
+  "name": "",
+  "version": ""
+}
